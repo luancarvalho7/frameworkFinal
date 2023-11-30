@@ -1,0 +1,512 @@
+[
+    {
+        "Day": 29,
+        "DayOfWeek": "Wednesday",
+        "Month": "November",
+        "Classes": [
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio"
+        ]
+    },
+    {
+        "Day": 30,
+        "DayOfWeek": "Thursday",
+        "Month": "November",
+        "Classes": [
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio"
+        ]
+    },
+    {
+        "Day": 1,
+        "DayOfWeek": "Friday",
+        "Month": "December",
+        "Classes": [
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio"
+        ]
+    },
+    {
+        "Day": 2,
+        "DayOfWeek": "Saturday",
+        "Month": "December",
+        "Classes": [
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio"
+        ]
+    },
+    {
+        "Day": 3,
+        "DayOfWeek": "Sunday",
+        "Month": "December",
+        "Classes": [
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio"
+        ]
+    },
+    {
+        "Day": 4,
+        "DayOfWeek": "Monday",
+        "Month": "December",
+        "Classes": [
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio"
+        ]
+    },
+    {
+        "Day": 5,
+        "DayOfWeek": "Tuesday",
+        "Month": "December",
+        "Classes": [
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio"
+        ]
+    },
+    {
+        "Day": 6,
+        "DayOfWeek": "Wednesday",
+        "Month": "December",
+        "Classes": [
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio"
+        ]
+    },
+    {
+        "Day": 7,
+        "DayOfWeek": "Thursday",
+        "Month": "December",
+        "Classes": [
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio"
+        ]
+    },
+    {
+        "Day": 8,
+        "DayOfWeek": "Friday",
+        "Month": "December",
+        "Classes": [
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio"
+        ]
+    },
+    {
+        "Day": 9,
+        "DayOfWeek": "Saturday",
+        "Month": "December",
+        "Classes": [
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio"
+        ]
+    },
+    {
+        "Day": 10,
+        "DayOfWeek": "Sunday",
+        "Month": "December",
+        "Classes": [
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio"
+        ]
+    },
+    {
+        "Day": 11,
+        "DayOfWeek": "Monday",
+        "Month": "December",
+        "Classes": [
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio"
+        ]
+    },
+    {
+        "Day": 12,
+        "DayOfWeek": "Tuesday",
+        "Month": "December",
+        "Classes": [
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio"
+        ]
+    },
+    {
+        "Day": 13,
+        "DayOfWeek": "Wednesday",
+        "Month": "December",
+        "Classes": [
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio"
+        ]
+    },
+    {
+        "Day": 14,
+        "DayOfWeek": "Thursday",
+        "Month": "December",
+        "Classes": [
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio"
+        ]
+    },
+    {
+        "Day": 15,
+        "DayOfWeek": "Friday",
+        "Month": "December",
+        "Classes": [
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio"
+        ]
+    },
+    {
+        "Day": 16,
+        "DayOfWeek": "Saturday",
+        "Month": "December",
+        "Classes": [
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio"
+        ]
+    },
+    {
+        "Day": 17,
+        "DayOfWeek": "Sunday",
+        "Month": "December",
+        "Classes": [
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio"
+        ]
+    },
+    {
+        "Day": 18,
+        "DayOfWeek": "Monday",
+        "Month": "December",
+        "Classes": [
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio"
+        ]
+    },
+    {
+        "Day": 19,
+        "DayOfWeek": "Tuesday",
+        "Month": "December",
+        "Classes": [
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio"
+        ]
+    },
+    {
+        "Day": 20,
+        "DayOfWeek": "Wednesday",
+        "Month": "December",
+        "Classes": [
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio"
+        ]
+    },
+    {
+        "Day": 21,
+        "DayOfWeek": "Thursday",
+        "Month": "December",
+        "Classes": [
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio"
+        ]
+    },
+    {
+        "Day": 22,
+        "DayOfWeek": "Friday",
+        "Month": "December",
+        "Classes": [
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio"
+        ]
+    },
+    {
+        "Day": 23,
+        "DayOfWeek": "Saturday",
+        "Month": "December",
+        "Classes": [
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio"
+        ]
+    },
+    {
+        "Day": 24,
+        "DayOfWeek": "Sunday",
+        "Month": "December",
+        "Classes": [
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio"
+        ]
+    },
+    {
+        "Day": 25,
+        "DayOfWeek": "Monday",
+        "Month": "December",
+        "Classes": [
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio"
+        ]
+    },
+    {
+        "Day": 26,
+        "DayOfWeek": "Tuesday",
+        "Month": "December",
+        "Classes": [
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio"
+        ]
+    },
+    {
+        "Day": 27,
+        "DayOfWeek": "Wednesday",
+        "Month": "December",
+        "Classes": [
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio"
+        ]
+    },
+    {
+        "Day": 28,
+        "DayOfWeek": "Thursday",
+        "Month": "December",
+        "Classes": [
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio",
+            "Vazio"
+        ]
+    }
+]

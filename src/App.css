@@ -1,0 +1,130 @@
+/* Reset some basic elements */
+body, h2, form, ul, p {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Apply a basic font */
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+/* Style for the app container */
+.App {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Style for the form elements */
+form {
+  margin-bottom: 20px;
+  background: #f9f9f9;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+/* Style for the form inputs and selects */
+input[type="text"],
+input[type="date"],
+input[type="number"],
+select {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Style for labels */
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+/* Style for the buttons */
+button {
+  background-color: #5c6bc0;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #3949ab;
+}
+
+/* Style for the schedule list */
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  background: #eee;
+  padding: 10px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+
+/* Style for the calendar display title */
+h2 {
+  color: #333;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Style for no schedules message */
+p {
+  text-align: center;
+  color: #888;
+}
+
+
+/* adasdada
+
+
+
+/* components/CalendarView.css */
+.calendario {
+  font-family: Arial, sans-serif;
+  margin: 10px;
+}
+
+.calendario .semana {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.calendario .dia {
+  flex: 1;
+  min-width: 150px;
+  border: 1px solid #ccc;
+  margin: 5px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.calendario .data {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.calendario .aulas .aula {
+  padding: 5px;
+  margin-bottom: 5px;
+  background-color: #e0e0e0;
+  border-radius: 3px;
+  text-align: center;
+}
+
+.calendario .aulas .aula:last-child {
+  margin-bottom: 0;
+}
